@@ -2,7 +2,7 @@ import math
 import numpy as np
 import random
 
-class MaxEntUnsupervised:
+class MaxEntDis:
 
     def __init__(self, observations, states, iternum):
 
