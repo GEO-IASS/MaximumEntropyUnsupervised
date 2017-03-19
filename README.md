@@ -1,4 +1,4 @@
-# Maximum Entropy Unsupervised
+# Latent Maximum Entropy Principle, Unsupervised
 
 The codes here follow the methods given by "The Latent Maximum Entropy Principle, by Wang, Schuurmans, Zhao (2015)"
 
